@@ -1,0 +1,14 @@
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\bin\Debug\VPLab2.exe.config
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\bin\Debug\VPLab2.exe
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\bin\Debug\VPLab2.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.csproj.AssemblyReference.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.Properties.Resources.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.csproj.GenerateResource.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.exe
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.FormWeight.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.FormMain.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.FormSpeed.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\Lab2\VPLab2\VPLab2\obj\Debug\VPLab2.FormCurrency.resources
